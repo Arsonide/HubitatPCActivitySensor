@@ -1,0 +1,11 @@
+{
+    "HubIp": "###.###.#.###",
+    "AppId": "##",
+    "DeviceId": "###",
+    "AccessToken": "put-your-access-token-here",
+    "PulseIntervalSeconds": 120,
+    "IdleThresholdSeconds": 150,
+    "MaxAllowedTickGapSeconds": 30,
+    "TickTimeSeconds": 1,
+    "EnableLogging": false
+}
