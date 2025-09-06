@@ -19,6 +19,7 @@ Keep a Notepad window open during this setup process to paste in a handful of de
 1. Virtual Motion Sensor Unlimited
 	* The motion sensor we're going to use needs a custom driver you will find in the release.
 	* This driver allows us to use much longer timeout times for the PC activity, which will be necessary.
+	* The driver is one of three files in the release of this, a groovy script. It is based off of **Virtual Motion Sensor with Switch** by **Ernie Miller** with a slight modification. His original license is intact.
 	* [Refer to the documentation](https://docs2.hubitat.com/en/how-to/install-custom-drivers) on how to install custom drivers, and install Virtual Motion Sensor Unlimited.
 2. Hubitat Virtual Motion Sensor Unlimited Device
    * Open the **Devices** page for your Hubitat Hub and click **Add Virtual Device**.
